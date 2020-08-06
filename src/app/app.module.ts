@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { JumbotronComponent } from './jumbotron/jumbotron.component';
 import { AccordionComponent } from './accordion/accordion.component';
+import { ResumeComponent } from './resume/resume.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     JumbotronComponent,
-    AccordionComponent
+    AccordionComponent,
+    ResumeComponent
   ],
   imports: [
     BrowserModule,
