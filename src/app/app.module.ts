@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { JumbotronComponent } from './jumbotron/jumbotron.component';
 import { AccordionComponent } from './accordion/accordion.component';
 import { ResumeComponent } from './resume/resume.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ResumeComponent } from './resume/resume.component';
     NavbarComponent,
     JumbotronComponent,
     AccordionComponent,
-    ResumeComponent
+    ResumeComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
