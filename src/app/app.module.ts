@@ -7,13 +7,15 @@ import { NavbarComponent } from './navbar/navbar.component';
 
 import { ResumeComponent } from './resume/resume.component';
 import { HomeComponent } from './home/home.component';
+import { DonateComponent } from './donate/donate.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     ResumeComponent,
-    HomeComponent
+    HomeComponent,
+    DonateComponent
   ],
   imports: [
     BrowserModule,
