@@ -1,0 +1,6 @@
+.line {
+    width: 100%;
+    height: 69px;
+    border-bottom: 7px solid black;
+    position: static;
+}
