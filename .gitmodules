@@ -1,0 +1,3 @@
+[submodule "portfolio"] 
+  path = path_to_submodule 
+  url = git:https://github.com/GmoneyAlan/portfolio.git
