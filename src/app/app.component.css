@@ -1,0 +1,13 @@
+.background {
+    background: url('../assets/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.bottom_header {
+    width: 100%;
+    height: 100px;
+    display: block;
+    margin: auto;
+    background-color: darkgray;
+}
